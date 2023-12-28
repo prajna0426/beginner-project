@@ -11,8 +11,8 @@
 
 1. 실행 전 데이터와 코드를 같은 위치에 둘 것
 2. 실행 시 터미널에서 다음과 같이 입력
-    python weather.py XXXX-XX-XX
-3. XXXX-XX-XX는 년-월-일 순으로 입력
+    python weather.py XXXX XX XX
+3. XXXX XX XX는 년 월 일 순으로 입력
 
 #### GUI버전
 
